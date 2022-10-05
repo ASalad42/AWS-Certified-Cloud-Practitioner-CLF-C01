@@ -16,5 +16,11 @@ Content:
 
   </div>
 
+## Passed on 05/10/22
+
 ### Next Steps 
-AWS Cloud: Start with AWS Certified Solutions Architect Associate, then move on to AWS Certified Developer Associate and then AWS Certified SysOps Administrator. Afterwards you can either do AWS Certified Solutions Architect Professional or AWS Certified DevOps Professional, or a specialty certification of your choosing.
+AWS Cloud: 
+- Start with AWS Certified Solutions Architect Associate
+- then move on to AWS Certified Developer Associate 
+- and then AWS Certified SysOps Administrator.
+- Afterwards you can either do AWS Certified Solutions Architect Professional or AWS Certified DevOps Professional, or a specialty certification of your choosing.
