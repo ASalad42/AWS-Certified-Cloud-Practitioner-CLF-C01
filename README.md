@@ -6,8 +6,13 @@ The AWS Certified Cloud Practitioner certification is a great entry-level certif
 
 Content: 
 
-![image](https://user-images.githubusercontent.com/104793540/191227977-d5d58579-2c4c-4ceb-af86-02d38ea00162.png)
-![image](https://user-images.githubusercontent.com/104793540/191228079-89570d23-6005-4623-86ad-040e3bbcc63a.png)
+![image](https://user-images.githubusercontent.com/104793540/194054994-3f8532ed-037c-4ccd-a51b-b2382ee81bdc.png)
+![image](https://user-images.githubusercontent.com/104793540/194055038-142ba776-ce6d-4d0f-b525-be053b2b773c.png)
+![image](https://user-images.githubusercontent.com/104793540/194055083-0576cc51-3ad5-4e16-89ed-26190775e3c3.png)
+![image](https://user-images.githubusercontent.com/104793540/194055144-75515154-9ae3-4d38-a170-538ab33e066c.png)
+
+
+
 
 ## Exam 
 
