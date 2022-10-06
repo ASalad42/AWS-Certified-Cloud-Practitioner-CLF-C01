@@ -6,7 +6,6 @@ The AWS Certified Cloud Practitioner certification is a great entry-level certif
 
 ## Passed on 05/10/22
 
-
 ## My roadmap:  Cloud Practitioner > Developer Associate > DevOps Engineer Professional > Advanced Networking 
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/104793540/194301128-b2218517-c156-4b85-9f07-ab4d387e33eb.png)
