@@ -29,3 +29,8 @@ AWS Cloud:
 - then move on to AWS Certified Developer Associate 
 - and then AWS Certified SysOps Administrator.
 - Afterwards you can either do AWS Certified Solutions Architect Professional or AWS Certified DevOps Professional, or a specialty certification of your choosing.
+- sysops not paid well 
+
+My roadmap:  Cloud Practitioner > Developer Associate > DevOps Engineer Professional 
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/104793540/194301128-b2218517-c156-4b85-9f07-ab4d387e33eb.png)
