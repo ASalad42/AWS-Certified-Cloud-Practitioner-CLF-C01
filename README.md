@@ -4,6 +4,14 @@
 
 The AWS Certified Cloud Practitioner certification is a great entry-level certification for AWS. It's great at assessing how well you understand AWS, its services, and its ecosystem.
 
+## Passed on 05/10/22
+
+
+## My roadmap:  Cloud Practitioner > Developer Associate > DevOps Engineer Professional > Advanced Networking 
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/104793540/194301128-b2218517-c156-4b85-9f07-ab4d387e33eb.png)
+
+  
 Content: 
 
 ![image](https://user-images.githubusercontent.com/104793540/194054994-3f8532ed-037c-4ccd-a51b-b2382ee81bdc.png)
@@ -21,16 +29,10 @@ Content:
 
   </div>
 
-## Passed on 05/10/22
-
 ### Possible Next Steps 
 AWS Cloud: 
-- Start with AWS Certified Solutions Architect Associate
-- then move on to AWS Certified Developer Associate 
-- and then AWS Certified SysOps Administrator.
+- AWS Certified Solutions Architect Associate
+- AWS Certified Developer Associate 
+- AWS Certified SysOps Administrator.
 - Afterwards you can either do AWS Certified Solutions Architect Professional or AWS Certified DevOps Professional, or a specialty certification of your choosing.
 - sysops not paid well 
-
-## My roadmap:  Cloud Practitioner > Developer Associate > DevOps Engineer Professional > Advanced Networking 
-
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/104793540/194301128-b2218517-c156-4b85-9f07-ab4d387e33eb.png)
